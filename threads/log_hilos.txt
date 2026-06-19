@@ -1,0 +1,5 @@
+Registro del Hilo 1 escrito a las 13:58:06.668
+Registro del Hilo 5 escrito a las 13:58:07.185
+Registro del Hilo 2 escrito a las 13:58:07.686
+Registro del Hilo 3 escrito a las 13:58:08.199
+Registro del Hilo 4 escrito a las 13:58:08.713
